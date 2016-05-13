@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./fderaconventione10ryme_0193.png"; bbox 0 0 2583 4261; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 138 1173 2326 1685">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 138 1173 2326 1685">
+     <span class='ocr_line' id='line_1_1' title="bbox 138 1173 2326 1395; baseline 0.007 -15"><span class='ocrx_word' id='word_1_1' title='bbox 138 1177 308 1381; x_wconf 88' lang='lat' dir='ltr'>F</span> <span class='ocrx_word' id='word_1_2' title='bbox 438 1179 867 1381; x_wconf 89' lang='lat' dir='ltr'>OE</span> <span class='ocrx_word' id='word_1_3' title='bbox 999 1183 1214 1382; x_wconf 95' lang='lat' dir='ltr'>D</span> <span class='ocrx_word' id='word_1_4' title='bbox 1352 1173 1534 1386; x_wconf 84' lang='lat' dir='ltr'>E</span> <span class='ocrx_word' id='word_1_5' title='bbox 1673 1188 1871 1391; x_wconf 91' lang='lat' dir='ltr'>R</span> <span class='ocrx_word' id='word_1_6' title='bbox 1997 1191 2326 1395; x_wconf 66' lang='lat' dir='ltr'>A9÷</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 361 1579 2046 1685; baseline 0.008 -16"><span class='ocrx_word' id='word_1_7' title='bbox 361 1579 1452 1679; x_wconf 81' lang='lat' dir='ltr'>GONVENTIONES,</span> <span class='ocrx_word' id='word_1_8' title='bbox 1490 1585 2046 1685; x_wconf 70' lang='lat' dir='ltr'>LITERAE2</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 787 1838 1757 1954">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 787 1838 1757 1954">
+     <span class='ocr_line' id='line_1_3' title="bbox 787 1838 1757 1954; baseline 0.001 -31"><span class='ocrx_word' id='word_1_9' title='bbox 787 1840 892 1923; x_wconf 88' lang='lat' dir='ltr'>Et</span> <span class='ocrx_word' id='word_1_10' title='bbox 946 1838 1440 1953; x_wconf 82' lang='lat' dir='ltr'>cujuscunque</span> <span class='ocrx_word' id='word_1_11' title='bbox 1472 1848 1757 1954; x_wconf 78' lang='lat' dir='ltr'>generis</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 155 2116 2300 2290">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 155 2113 2300 2290">
+     <span class='ocr_line' id='line_1_4' title="bbox 155 2116 2300 2290; baseline 0.003 -8"><span class='ocrx_word' id='word_1_12' title='bbox 155 2116 875 2285; x_wconf 84' lang='lat' dir='ltr'><strong>ACTA</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1137 2120 2300 2290; x_wconf 74' lang='lat' dir='ltr'><strong>PUBLICA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 594 2470 1824 2562">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 594 2470 1824 2562">
+     <span class='ocr_line' id='line_1_5' title="bbox 594 2470 1824 2562; baseline -0.001 -24"><span class='ocrx_word' id='word_1_14' title='bbox 594 2470 926 2538; x_wconf 80' lang='lat' dir='ltr'><em>TOMJ</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 1055 2473 1138 2540; x_wconf 78' lang='grc' dir='ltr'><em>Χ</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 1277 2474 1638 2541; x_wconf 83' lang='lat' dir='ltr'><em>PARS</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 1743 2473 1824 2562; x_wconf 55' lang='grc' dir='ltr'>[ῃ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
